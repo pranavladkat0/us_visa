@@ -23,3 +23,6 @@ uvicorn
 jinja2
 python-multipart
 -e .
+'''
+mongodb+srv://<db_username>:<db_password>@cluster0.imqntja.mongodb.net/?appName=Cluster0
+'''
